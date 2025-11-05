@@ -34,6 +34,7 @@ leetcode-problems/
 | 27  | [Remove Element](https://leetcode.com/problems/remove-element/)                                           | Easy       | [Solution](leetcode-problems/arrays/two-pointer/easy/remove-element.js)                      | Array, Two Pointers |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/)                                                 | Easy       | [Solution](leetcode-problems/arrays/easy/move-zeroes.js)                                     | Array, In-place     |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/)                                       | Easy       | [Solution](leetcode-problems/arrays/easy/majority-element.js)                                | Array, Voting       |
+| 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/)                                               | Medium     | [Solution](leetcode-problems/arrays/medium/rotate-array.js)                                  | Array, In-place     |
 
 ## Topics Covered
 

@@ -23,6 +23,7 @@ leetcode-problems/
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy       | [Solution](leetcode-problems/150-dsa-interview/best-time-to-buy-sell-stock.js)          | Array, Dynamic Programming |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)       | Medium     | [Solution](leetcode-problems/150-dsa-interview/array/product_of_array_except_self.js)   | Array                      |
 | 33  | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)   | Medium     | [Solution](leetcode-problems/150-dsa-interview/array/search-in-rotated-sorted-array.js) | Array, Binary Search       |
+| 334 | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence/)   | Medium     | [Solution](leetcode-problems/arrays/medium/increasing_triplet_subsequence.js)           | Array, Greedy              |
 
 ### Array Problems
 
